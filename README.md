@@ -25,3 +25,6 @@ Create a class called "Printer" with 2 methods:
 2. `PrintInventory` takes 1 parameter of type `Inventory` and prints out information of the inventory with the amount of unique items and total number of items.
 
 Use good naming convention and access modifier for class, properties, and methods.
+
+## Result
+![result demo](./demo.png)
